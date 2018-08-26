@@ -1,7 +1,7 @@
 #coding:utf-8
 #每日读取金山词霸的每日一句，英文和翻译，并保存到OneDayOneWord.txt文件
 #number_start.txt文件记录程序运行次数，初次使用建议打开该文件，将文本修改为0。
-#Autor:zpp
+#Author:zpp
 #Email:zhoupp@wipm.ac.cn
 import requests
 import time
